@@ -26,9 +26,8 @@ this is an screenshot from the desktop version
 
 ### Links
 
-- Solution URL: [My Solution] (https://github.com/Adrian2C/qrcode-challenge/)
-- Live Site URL: [Qr Code] (https://qrcode-modal.netlify.app/)
-
+- Solution URL: - [My Solution](https://github.com/Adrian2C/qrcode-challenge/)
+- Live Site URL: [Qr Code](https://qrcode-modal.netlify.app/)
 ## My process
 This proyect I decided to build with the basic to improve it. I always think that a good foundation is a good building. With this excercise, I decided to not jump into the preprocessor, or framworks, but try to learn at a good level the basics, so i can create greater things on my next steps on the web development world.
 ### Built with

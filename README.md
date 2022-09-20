@@ -5,6 +5,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
+- [Screenshot](#screenshot)
 - [Links](#links)
 - [My process](#my-process)
 - [Built with](#built-with)
@@ -15,7 +16,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 this is my version of the front end qr code challenge. I made it with css and Html.
 
+
+## screenshot
+
+this is an screenshot from the desktop version
+
 ![Screenshot](screenshot.JPG)
+
+
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)

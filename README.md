@@ -15,7 +15,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 this is my version of the front end qr code challenge. I made it with css and Html.
 
-![](./screenshot.jpg)
+![Screenshot](screenshot.JPG)
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)

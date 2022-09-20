@@ -26,7 +26,7 @@ this is an screenshot from the desktop version
 
 ### Links
 
-- Solution URL: [https://github.com/Adrian2C/qrcode-challenge](My Solution)
+- Solution URL: [https://github.com/Adrian2C/qrcode-challenge/] (My Solution)
 - Live Site URL: [https://qrcode-modal.netlify.app/](Qr Code)
 
 ## My process

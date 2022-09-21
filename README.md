@@ -12,6 +12,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Continued development](#continued-development)
 - [Useful resources](#useful-resources)
 - [Author](#author)
+- [Modifications](#modifications)
 
 ## Overview
 this is my version of the front end qr code challenge. I made it with css and Html.
@@ -35,7 +36,6 @@ This proyect I decided to build with the basic to improve it. I always think tha
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- Mobile-first workflow
 
 ### Continued development
 
@@ -51,3 +51,7 @@ decided to keep improving on mobile first design.
 - Github - [Adrian2C](https://github.com/Adrian2C)
 - Frontend Mentor - [@Adrian2C](https://www.frontendmentor.io/profile/Adrian2C)
 - LinkedIn - [@adriancoceres](https://www.linkedin.com/in/adriancoceres/)
+
+## modifications
+HTML reduce the coding lines from 28 to 22 lines
+CSS Delete unnecesary lines, and reduce the code from 98 lines to 42 + the reset code
